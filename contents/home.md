@@ -8,9 +8,9 @@ PhD @ VUSec
 f.c.gorter[at]vu.nl
 
 #### Education
-MSc
-BSc
+MSc in Computer Science (Cum laude), Vrije Universiteit Amsterdam
+BSc in Computer Science (Cum laude), Vrije Universiteit Amsterdam
 
 #### Research Interests
-Security
+System security, vulnerability research, bug sanitizers
 
