@@ -14,4 +14,3 @@ BSc in Computer Science (cum laude), Vrije Universiteit Amsterdam
 System security, vulnerability research, bug sanitizers, program analysis
 
 [![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Afy4QisAAAAJ)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Afy4QisAAAAJ)
