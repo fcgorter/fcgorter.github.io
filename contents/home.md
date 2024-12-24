@@ -1,7 +1,7 @@
 
 
 PhD Student @ [VUSec](https://www.vusec.net) - Researching C/C++ vulnerabilities and memory safety\
-Previously, I was a research intern at Intel Labs, working on memory safety ([HARDEN](https://www.intel.com/content/www/us/en/newsroom/news/intel-and-ucsd-join-darpa-cyberdefense-program.html).
+Previously, I was a research intern at Intel Labs, working on memory safety ([HARDEN](https://www.intel.com/content/www/us/en/newsroom/news/intel-and-ucsd-join-darpa-cyberdefense-program.html))
 
 #### Email
 f.c.gorter[at]vu.nl
