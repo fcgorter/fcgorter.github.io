@@ -8091,7 +8091,7 @@ textarea.form-control-lg {
 .text-white {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
-  -webkit-text-stroke: 3px black;
+  -webkit-text-stroke: 1px black;
 }
 
 .text-body {
