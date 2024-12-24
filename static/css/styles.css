@@ -7047,6 +7047,8 @@ textarea.form-control-lg {
 
 .shadow {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+  border: 2px solid black;
+  border-radius: 5px;
 }
 
 .shadow-sm {
