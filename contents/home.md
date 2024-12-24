@@ -2,7 +2,7 @@
 
 [![fcgorter](https://img.shields.io/badge/fcgorter-github-blue?logo=github)](https://github.com/fcgorter)
 
-PhD Student @ VUSec - Researching C/C++ vulnerabilities and memory safety.
+PhD Student @ VUSec - Researching C/C++ vulnerabilities and memory safety
 
 #### Email
 f.c.gorter[at]vu.nl
