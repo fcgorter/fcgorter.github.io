@@ -8,8 +8,8 @@ PhD Student @ VUSec - Researching C/C++ vulnerabilities and memory safety
 f.c.gorter[at]vu.nl
 
 #### Education
-MSc in Computer Science (Cum laude), Vrije Universiteit Amsterdam\
-BSc in Computer Science (Cum laude), Vrije Universiteit Amsterdam
+MSc in Computer Science (cum laude), Vrije Universiteit Amsterdam\
+BSc in Computer Science (cum laude), Vrije Universiteit Amsterdam
 
 #### Research Interests
 System security, vulnerability research, bug sanitizers, program analysis
