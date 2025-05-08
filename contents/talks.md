@@ -1,6 +1,6 @@
 - Scholarly Communication, 2024
 
-- AFFECT.NL, 2024
+- AFFECT.NL, 2024, 2025
 
 - Unikraft Hackathon, 2023
 
