@@ -6,22 +6,31 @@ Previously, I was a research intern at Intel Labs, working on memory safety ([HA
 <table style="border-collapse: collapse; border: none; padding: 0; margin: 0;">
   <tr>
     <td style="border: none; padding: 0; vertical-align: middle; padding-right: 6px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" width="40" height="40">
+      <img src="./static/assets/img/QCOM.jpg" width="40" height="40" style="border: 2px solid #ccc;">
     </td>
     <td style="border: none; padding: 0; vertical-align: middle;">
-      Your text here
+      Qualcomm
     </td>
   </tr>  
   <tr>
     <td style="border: none; padding: 0; vertical-align: middle; padding-right: 6px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Sign-check-icon.png" width="40" height="40">
+      <img src="./static/assets/img/intellabs.jpeg" width="40" height="40" style="border: 2px solid #ccc;">
     </td>
     <td style="border: none; padding: 0; vertical-align: middle;">
-      Your text here
+      Intel Labs
+    </td>
+  </tr>
+    <tr>
+    <td style="border: none; padding: 0; vertical-align: middle; padding-right: 6px;">
+      <img src="./static/assets/img/VU_social_avatar_blauw.png" width="40" height="40" style="border: 2px solid #ccc;">
+    </td>
+    <td style="border: none; padding: 0; vertical-align: middle;">
+      VU
     </td>
   </tr>
 </table>
 
+<p>&nbsp;</p>
 
 #### Email
 f.c.gorter[at]vu.nl
