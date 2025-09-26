@@ -1,3 +1,7 @@
+- <strong>QuickSafe</strong>: Targeted Hardening Against Memory Corruption. <strong>IEEE S&P 2026</strong>.
+
+- <strong>Canon Pointers</strong>: Conditional Delta Tagging for Compatible Buffer Overflow Protection. <strong>PLAS 2025</strong>. [[PDF]](https://download.vusec.net/papers/canonptr_plas25.pdf)
+
 - <strong>RangeSanitizer</strong>: Detecting Memory Errors with Efficient Range Checks. <strong>USENIX Security 2025</strong>. [[PDF]](https://download.vusec.net/papers/rsan_sec25.pdf)
 
 - <strong>Sticky Tags</strong>: Efficient and Deterministic Spatial Memory Error Mitigation using Persistent Memory Tags. <strong>IEEE S&P 2024</strong>. [[PDF]](https://download.vusec.net/papers/stickytags_sp24.pdf)
