@@ -1,4 +1,4 @@
-- <strong>QuickSafe</strong>: Targeted Hardening Against Memory Corruption. <strong>IEEE S&P 2026</strong>.
+- <strong>QuickSafe</strong>: Targeted Hardening Against Memory Corruption. <strong>IEEE S&P 2026</strong>. [[PDF]](https://download.vusec.net/papers/quicksafe_sp26.pdf)
 
 - <strong>Canon Pointers</strong>: Conditional Delta Tagging for Compatible Buffer Overflow Protection. <strong>PLAS 2025</strong>. [[PDF]](https://download.vusec.net/papers/canonptr_plas25.pdf)
 
