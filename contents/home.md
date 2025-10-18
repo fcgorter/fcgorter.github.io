@@ -1,5 +1,13 @@
 
 <table style="border-collapse: collapse; border: none; padding: 0; margin: 0;">
+<tr>
+  <td style="border: none; padding: 6px 6px 6px 0; vertical-align: middle; padding-right: 10px;">
+    <img src="./static/assets/img/oracle.png" width="40" height="40" style="border: 2px solid #999;">
+  </td>
+  <td style="border: none; padding: 6px 0; vertical-align: middle;">
+    (2025) Research Assistant at Oracle Labs (GraalVM Security)
+  </td>
+</tr>
   <tr>
     <td style="border: none; padding: 6px 6px 6px 0; vertical-align: middle; padding-right: 10px;">
       <img src="./static/assets/img/QCOM.png" width="40" height="40" style="border: 2px solid #999;">
@@ -36,6 +44,6 @@ MSc in Computer Science (cum laude), Vrije Universiteit Amsterdam\
 BSc in Computer Science (cum laude), Vrije Universiteit Amsterdam
 
 #### Research Interests
-System security, bug sanitizers, code hardening, compilers, memory tagging, secure allocators 
+System security, bug sanitizers, code hardening, compilers, memory tagging, secure allocators
 
 [![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Afy4QisAAAAJ)
