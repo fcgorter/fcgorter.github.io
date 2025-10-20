@@ -5,7 +5,7 @@
     <img src="./static/assets/img/oracle.png" width="40" height="40" style="border: 2px solid #999;">
   </td>
   <td style="border: none; padding: 6px 0; vertical-align: middle;">
-    (2025) Research Assistant at Oracle Labs (GraalVM Security)
+    (2025) Intern @ Oracle (GraalVM Security)
   </td>
 </tr>
   <tr>
@@ -13,7 +13,7 @@
       <img src="./static/assets/img/QCOM.png" width="40" height="40" style="border: 2px solid #999;">
     </td>
     <td style="border: none; padding: 6px 0; vertical-align: middle;">
-      (2025) Engineering Intern at Qualcomm (Product Security)
+      (2025) Intern @ Qualcomm (Product Security)
     </td>
   </tr>  
   <tr>
@@ -21,7 +21,7 @@
       <img src="./static/assets/img/intellabs.jpeg" width="40" height="40" style="border: 2px solid #999;">
     </td>
     <td style="border: none; padding: 6px 0; vertical-align: middle;">
-       (2023) Research Intern at Intel Labs (<a href="https://www.darpa.mil/research/programs/hardening-development-toolchains-against-emergent-execution-engines">HARDEN</a>, <a href="https://patents.google.com/patent/US20250077647A1/en">patent</a>)
+       (2023) Intern @ Intel Labs (<a href="https://www.darpa.mil/research/programs/hardening-development-toolchains-against-emergent-execution-engines">HARDEN</a>, <a href="https://patents.google.com/patent/US20250077647A1/en">patent</a>)
     </td>
   </tr>
     <tr>
